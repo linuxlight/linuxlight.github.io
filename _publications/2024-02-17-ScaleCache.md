@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 link: https://dl.acm.org/doi/10.1145/3627703.3629588
 excerpt: '\* equal contribution'
-author:  "Kiet Tuan Pham*, **Seokjoo Cho**\\*, Sangjin Lee, Lan Anh Nguyen, Ipoom Jeong, Sungjin Lee, Nam Sung Kim, Yongseok Son"
+author:  "Kiet Tuan Pham*, **Seokjoo Cho**\\*, Sangjin Lee, Lan Anh Nguyen, Hyeongi Yeo, Ipoom Jeong, Sungjin Lee, Nam Sung Kim, Yongseok Son"
 date: 2024-04-24
 venue: "Proceedings of 19th ACM SIGOPS European Conference on Computer Systems, EuroSys '24"
 location: Athens, Greece
