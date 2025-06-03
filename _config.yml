@@ -25,7 +25,7 @@ author:
   avatar           : "cho-bio-photo.jpg"
   name             : *name
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, CS, UIUC"
+  bio              : "PhD Student, CS, UIUC"
   location         : "Urbana, IL"
   employer         : # "Red Brick University"
   uri              : # URL
